@@ -1,2 +1,5 @@
 # data-visualization-and-statistic
-Analyzes the results of the USA presidential election held in 2012 and interprets whether it is fraudulent or not.
+
+you must take input file and nominees as argument.
+
+python3 assignment4.py ElectionIran2009.csv "Mousavi", "Karrubi", "Rezai"
